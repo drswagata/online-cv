@@ -37,15 +37,17 @@ sidebar:
       - idiom: Bengali
         level: Native
 
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+    Awards and Honors:
+      - item: 2016 - Listed in Who'sWho in the World® 2016 (33rd Edition)
+       # link:
+      - item: 2013 - Fellowship to work in CNRM, Meteo-France, Toulouse, France
+      - item: 2012 - World Meteorological Organizatn(WMO) support for IWAQFR Participation at Geneva, Switzerland
+      - item: 2010 - DST, Govt of India support for participation in AAAR-2012 at Florida, USA
+      - item: 2009 - GSFC, NASA support for participation in the second International Conference of Aerosol Science and Global Change at Hangzhou, China
+      - item: 2008 - Research Staff at University of California Los Angeles (UCLA), USA
+      - item: 2005 - Worked as a Young Scientist in Max Planck Institute of Meteorology, Hamburg, Germany
+      - item: 1999 - Received GATE Scholarship (All India Rank: - 64) for M Tech at IIT Kharagpur, 1999-2001
+      - item: 1997 - Received National Scholarship from University Grants Commission (UGC), Govt of India for graduation result.
 
 career-profile:
     title: Career Profile
