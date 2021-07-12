@@ -3,12 +3,16 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: Dr. Swagata Payra, Assistant Professor, Centre of Excellence in Climatology, Dept of Physics Birla Institute of Technology Mesra, Jaipur Campus, India
+    education: Post Doctoral Fellowship (Centre National de Recherches Météorologiques (CNRM), Météo-France, Toulouse, France)
+               Doctor of Philosophy, Atmospheric Sciences (Centre for Atmospheric Sciences Indian Institute of Technology Delhi (IIT Delhi), India)
+               Master of Technology, Atmospheric Sciences and Technology (Department of Physics and Meteorology Indian Institute of Technology Kharagpur, (IIT Kgp), India)
+               Master of Science, Physics Calcutta University, India
+
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Dr. Swagata Payra
+    tagline: Assistant Professor - Centre of Excellence in Climatology, Dept of Physics BIT Mesra, Jaipur Campus, India
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
