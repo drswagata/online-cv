@@ -4,10 +4,7 @@
 
 sidebar:
     about: Dr. Swagata Payra, Assistant Professor, Centre of Excellence in Climatology, Dept of Physics Birla Institute of Technology Mesra, Jaipur Campus, India
-    education: Post Doctoral Fellowship - 2014 (Centre National de Recherches Météorologiques (CNRM), Météo-France, Toulouse, France)
-               Doctor of Philosophy, Atmospheric Sciences - 2012 (Centre for Atmospheric Sciences Indian Institute of Technology Delhi (IIT Delhi), India)
-               Master of Technology, Atmospheric Sciences and Technology - 2001 (Department of Physics and Meteorology Indian Institute of Technology Kharagpur, (IIT Kgp), India)
-               Master of Science - 1997, Physics Calcutta University, India
+    education: True
 
 
     # Profile information
@@ -60,28 +57,25 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Post Doctoral Fellowship
+      university: CNRM, France
+      time: 2013 - 2014
+      details: Centre National de Recherches Météorologiques (CNRM), Météo-France, Toulouse, France
+         # - Bullet point
+        #  - Bullet point
+    - degree: Doctor of Philosophy in Atmospheric Sciences
+      university: IIT Delhi, India
+      time: 2005 - 2012
+      details: Centre for Atmospheric Sciences - Indian Institute of Technology Delhi (IIT Delhi), India
+    - degree: Master of Technology in Atmospheric Sciences and Technology
+      university: IIT KGP, India
+      time: 2001
+      details: Department of Physics and Meteorology - Indian Institute of Technology Kharagpur, (IIT KGP), India
+    - degree: Master of Science in Physics
+      university: Calcutta University, India
+      time: 1997
+      details: Masters in Physics from Calcutta University, India
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
