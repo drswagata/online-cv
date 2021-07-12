@@ -22,7 +22,7 @@ sidebar:
   #  telegram: # add your nickname without '@' sign
   #  gitlab:
   #  bitbucket:
-    twitter: '@webjeda'
+  #  twitter: '@webjeda'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
    # codewars:
   #  goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,6 +37,18 @@ sidebar:
       - idiom: Bengali
         level: Native
 
+    Teaching Experience:
+    - item: Environmental Management (MCA, 2011 - till date)
+    - item: Environmental Sciences (BCA, 2011 – till date)
+    - item: Environmental Sciences (BE, 2011 - 2012)
+    
+    UG/PG Thesis Guidance: 
+    - item: Athira Raj
+    - item: Ashish Kumar Nagar 
+    - item: Bhagchand Yadav 
+    - item: Jayant Vivek Khalkho 
+
+
     Awards and Honors:
       - item: 2016 - Listed in Who'sWho in the World® 2016 (33rd Edition)
        # link:
@@ -48,6 +60,14 @@ sidebar:
       - item: 2005 - Worked as a Young Scientist in Max Planck Institute of Meteorology, Hamburg, Germany
       - item: 1999 - Received GATE Scholarship (All India Rank: - 64) for M Tech at IIT Kharagpur, 1999-2001
       - item: 1997 - Received National Scholarship from University Grants Commission (UGC), Govt of India for graduation result.
+      
+    Distinguished Achievements:  
+    - item: Listed in Who's Who in the World® 2016 (33rd Edition)
+    - item: World Meteorological Organization (WMO) invitation and travel support for IWAQFR Participation at Geneva, Switzerland
+    - item: Worked as a Young Scientist in Max Planck Institute of Meteorology, Hamburg, Germany
+    - item: All India Rank(AIR) rank is 64 for Graduate Aptitude Test in Engineering (GATE)  exam in Physics
+    - item: Received National Scholarship from University Grants Commission (UGC), Govt of India for Graduation result
+
 
 career-profile:
     title: Career Profile
@@ -77,6 +97,8 @@ education:
       university: Calcutta University, India
       time: 1997
       details: Masters in Physics from Calcutta University, India
+      
+Academic and Research Experience:
 
 experiences:
     - role: Lead Developer
