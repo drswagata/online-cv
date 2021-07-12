@@ -1,0 +1,22 @@
+{% assign honors = site.data.data.sidebar.honors %}
+{% if honors %}
+<div class="interests-container container-block">
+
+  <h2 class="container-block-title">
+    Awards & Honors
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for honor in honors %}
+
+      {% if honor.link %}
+      <li><a href="{{ honor.link }}">{{ honor.item }}</a></li>
+      {% else %}
+      <li>{{ honor.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
